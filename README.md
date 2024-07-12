@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASR2554
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested web developmet
+- 🌱 I’m currently learning web developmet
 - 📫 How to reach me aditisharma2554@gmail.com
 
 <!---
